@@ -30,6 +30,10 @@ export default function Home() {
             <h3>Example Kayo Page &rarr;</h3>
             <p>Click here to navigate to the Kayo page</p>
           </a>
+          <a href='/koa ' className='card'>
+            <h3>Example Koa Page &rarr;</h3>
+            <p>Click here to navigate to Koa's page</p>
+          </a>
         
 
           <a
